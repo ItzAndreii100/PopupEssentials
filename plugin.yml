@@ -1,0 +1,12 @@
+name: TitleSender
+main: BrokenItZAndrei100/main
+api: [3.3.0, 3.5.1, 4.0.0]
+version: 1.0
+author: BrokenItZAndrei100
+
+commands:
+ titlesdr:
+  description: "Sending Titles To Anyone You Want"
+ fullhearts:
+  description: "Making All Your Hearts Full"
+permissions: use.titlesdr
